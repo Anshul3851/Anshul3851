@@ -11,6 +11,16 @@ I build **practical, polished software** at the intersection of **engineering, A
 
 ---
 
+## 💻 Languages & Tools
+
+`Python` `C++` `C` `JavaScript` `TypeScript` `MATLAB` `SQL`
+
+**Development:** `Next.js` · `React` · `Tailwind CSS` · `Git` · `GitHub` · `Streamlit`
+
+**Data & Computing:** `NumPy` · `pandas` · `Jupyter`
+
+---
+
 ## 🚀 Featured Project
 
 ### [Voyager](https://github.com/Anshul3851/Voyager)
