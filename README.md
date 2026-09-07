@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi, I'm Anshul Sharma 👋</h2>
 <p align="center">
-  Building software, exploring AI & data, and learning quantitative finance.
+  Engineering Physics student building software across AI, data, and quantitative finance.
 </p>
 
 ## 🧰 Main Skills
@@ -20,7 +20,11 @@
 
 ### [Voyager](https://github.com/Anshul3851/Voyager)
 
-A modern interactive web application built with **Next.js, React, TypeScript and Tailwind CSS**, focused on a polished product experience.
+A polished, interactive web application built with **Next.js, React, TypeScript, and Tailwind CSS**.
+
+**Focus:** modern UI · interactive experiences · responsive product development
+
+[**→ View Voyager on GitHub**](https://github.com/Anshul3851/Voyager)
 
 ## 🤝 Connect
 
