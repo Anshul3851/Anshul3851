@@ -22,21 +22,12 @@
 
 A modern interactive web application built with **Next.js, React, TypeScript and Tailwind CSS**, focused on a polished product experience.
 
-## 📊 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul3851&theme=github-dark&hide_border=true&area=true" alt="GitHub contribution graph" />
-</p>
-
 ## 🤝 Connect
 
 <p align="center">
   <a href="https://github.com/Anshul3851"><img src="https://img.shields.io/badge/GitHub-Anshul3851-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/anshulsharma-profile/"><img src="https://img.shields.io/badge/LinkedIn-Anshul%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-Coming%20Soon-6e5494?style=for-the-badge&logo=google-chrome" /></a>
 </p>
-
-> 🌐 When your personal website is ready, replace **Website — Coming Soon** with your actual site URL.
 
 <p align="center">
   <i>Building, learning, and shipping.</i>
