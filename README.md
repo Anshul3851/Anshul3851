@@ -1,3 +1,4 @@
+<img width="1600" height="600" alt="d86dd962-e0b1-48ff-9181-59e986c6c7f2" src="https://github.com/user-attachments/assets/f1381c53-6fce-4c7c-b605-1ab3f89f4389" />
 # Hi, I'm Anshul Sharma 👋
 
 ### Engineering Physics @ NIT Hamirpur
