@@ -1,81 +1,42 @@
-<img width="1600" height="600" alt="d86dd962-e0b1-48ff-9181-59e986c6c7f2" src="https://github.com/user-attachments/assets/f1381c53-6fce-4c7c-b605-1ab3f89f4389" />
-# Hi, I'm Anshul Sharma 👋
+<p align="center">
+  <img width="1600" height="600" alt="Anshul Sharma — B.Tech · Engineering Physics" src="https://github.com/user-attachments/assets/f1381c53-6fce-4c7c-b605-1ab3f89f4389" />
+</p>
 
-### Engineering Physics @ NIT Hamirpur
+<h2 align="center">Hi, I'm Anshul Sharma 👋</h2>
+<p align="center">
+  Building software, exploring AI & data, and learning quantitative finance.
+</p>
 
-I build **practical, polished software** at the intersection of **engineering, AI, data and finance**.
+## 🧰 Main Skills
 
-- 🔬 Engineering Physics student at **NIT Hamirpur**
-- 🚀 Focused on building real-world products and technical projects
-- 🤖 Exploring **AI/ML, intelligent systems and computational problem solving**
-- 📊 Interested in **data-driven systems and quantitative finance**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,nextjs,react,tailwind,git,github,matlab,sql&perline=6" />
+</p>
 
----
-
-## 💻 Languages & Tools
-
-`Python` `C++` `C` `JavaScript` `TypeScript` `MATLAB` `SQL`
-
-**Development:** `Next.js` · `React` · `Tailwind CSS` · `Git` · `GitHub` · `Streamlit`
-
-**Data & Computing:** `NumPy` · `pandas` · `Jupyter`
-
----
+**Data & Computing:** `NumPy` · `pandas` · `Jupyter` · `Streamlit`  
+**Interests:** `AI/ML` · `Intelligent Systems` · `Computational Physics` · `Quantitative Finance`
 
 ## 🚀 Featured Project
 
 ### [Voyager](https://github.com/Anshul3851/Voyager)
 
-> **A modern interactive web application built with Next.js, focused on a polished product experience.**
+A modern interactive web application built with **Next.js, React, TypeScript and Tailwind CSS**, focused on a polished product experience.
 
-**What it demonstrates**
-- 🎨 Modern, responsive interface design
-- ⚡ Interactive user experiences
-- 🧩 Component-driven frontend architecture
-- 📱 Responsive product development
-- 🛠️ Practical software engineering and iteration
+## 📊 Contributions
 
-**Built with**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul3851&theme=github-dark&hide_border=true&area=true" alt="GitHub contribution graph" />
+</p>
 
-`Next.js` `React` `TypeScript` `Tailwind CSS`
+## 🤝 Connect
 
-[**→ Explore Voyager**](https://github.com/Anshul3851/Voyager)
+<p align="center">
+  <a href="https://github.com/Anshul3851"><img src="https://img.shields.io/badge/GitHub-Anshul3851-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/anshulsharma-profile/"><img src="https://img.shields.io/badge/LinkedIn-Anshul%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-Coming%20Soon-6e5494?style=for-the-badge&logo=google-chrome" /></a>
+</p>
 
----
-
-<details>
-<summary><b>🧠 What I'm working toward</b></summary>
-
-<br>
-
-Building projects that combine **strong technical foundations with useful product experiences** — especially across AI, software, data and computational science.
-
-</details>
-
-<details>
-<summary><b>📚 Currently learning</b></summary>
-
-<br>
-
-**Machine Learning** · **AI Systems** · **Software Engineering** · **Computational Physics** · **Quantitative Finance**
-
-</details>
-
----
-
-## 🤝 Open to
-
-**Internships · Technical collaborations · Research opportunities · Product building**
-
-I'm especially interested in teams working on **software, AI/data, computational science and quantitative technologies**.
-
----
-
-## 📫 Connect
-
-[GitHub](https://github.com/Anshul3851)
-
----
+> 🌐 When your personal website is ready, replace **Website — Coming Soon** with your actual site URL.
 
 <p align="center">
   <i>Building, learning, and shipping.</i>
