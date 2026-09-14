@@ -4,19 +4,28 @@
 
 <h2 align="center">Hi, I'm Anshul Sharma 👋</h2>
 <p align="center">
-  Engineering Physics student building software across AI, data, and quantitative finance.
+  Engineering Physics student building and shipping software across AI, data, quantitative finance, and product development.
 </p>
 
 ## 🧰 Main Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,nextjs,react,tailwind,git,github,matlab,sql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,nextjs,react,tailwind,flutter,dart,git,github,matlab,sql&perline=7" />
 </p>
 
 **Data & Computing:** `NumPy` · `pandas` · `Jupyter` · `Streamlit`  
-**Interests:** `AI/ML` · `Intelligent Systems` · `Computational Physics` · `Quantitative Finance`
+**Development:** `Flutter` · `Dart` · `Next.js` · `React` · `TypeScript` · `Git` · `GitHub`  
+**Interests:** `AI/ML` · `Intelligent Systems` · `Computational Physics` · `Semiconductors` · `Quantitative Finance`
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### [PdfDoxi — Scan, Edit & Convert](https://github.com/Anshul3851/PdfDoxi)
+
+A fast, private, offline-first Android document scanner and PDF toolkit built with **Flutter and Dart**.
+
+**Highlights:** document scanning · image-to-PDF · PDF editing · OCR/searchable PDFs · merge/split · compression · AES-256 password protection · digital signatures · local document processing · AdMob
+
+[**→ View PdfDoxi on GitHub**](https://github.com/Anshul3851/PdfDoxi)
 
 ### [Voyager](https://github.com/Anshul3851/Voyager)
 
@@ -25,6 +34,13 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 **Focus:** modern UI · interactive experiences · responsive product development
 
 [**→ View Voyager on GitHub**](https://github.com/Anshul3851/Voyager)
+
+## 🎓 Background
+
+**B.Tech — Engineering Physics**  
+National Institute of Technology, Hamirpur
+
+Interested in the intersection of **physics, computing, AI, semiconductors, and real-world product development**.
 
 ## 🤝 Connect
 
