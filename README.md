@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi, I'm Anshul Sharma 👋</h2>
 <p align="center">
-  Engineering Physics student building and shipping software across AI, data, quantitative finance, and product development.
+  Engineering Physics student building and shipping software across AI, data, quantitative finance, and computational physics.
 </p>
 
 ## 🧰 Main Skills
@@ -15,7 +15,17 @@
 
 **Data & Computing:** `NumPy` · `pandas` · `Jupyter` · `Streamlit`  
 **Development:** `Flutter` · `Dart` · `Next.js` · `React` · `TypeScript` · `Git` · `GitHub`  
-**Interests:** `AI/ML` · `Intelligent Systems` · `Computational Physics` · `Semiconductors` · `Quantitative Finance`
+**Interests:** `AI/ML` · `Computational Physics` · `Quantum Systems` · `Semiconductors` · `Intelligent Systems` · `Quantitative Finance`
+
+## 🔬 Research & Computational Physics
+
+### [Quantum Phase-Transition ML](https://github.com/Anshul3851/quantum-phase-transition-ml)
+
+A computational study of finite-size classical and quantum Ising systems, combining statistical mechanics, numerical simulation, exact diagonalization, and machine learning.
+
+**Work includes:** 2D Ising Monte Carlo · finite-size scaling · Binder cumulants · autocorrelation/blocking analysis · transverse-field Ising exact diagonalization · PCA · k-means · logistic regression · neural networks · symmetry-aware ML
+
+The study investigates whether machine-learning representations track physically meaningful phase indicators, and how conclusions change when independent-chain validation and the global Ising symmetry are taken into account.
 
 ## 🚀 Featured Projects
 
@@ -35,12 +45,26 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 
 [**→ View Voyager on GitHub**](https://github.com/Anshul3851/Voyager)
 
+### NITH Analytics
+
+A data-driven academic analytics platform for NIT Hamirpur, with student search, batch/program views, academic analytics, database ingestion, and scheduled data synchronization.
+
+**Focus:** Python · PostgreSQL · data pipelines · analytics · web application development
+
 ## 🎓 Background
 
 **B.Tech — Engineering Physics**  
 National Institute of Technology, Hamirpur
 
-Interested in the intersection of **physics, computing, AI, semiconductors, and real-world product development**.
+Interested in the intersection of **physics, computing, AI/ML, quantum systems, semiconductors, and real-world technology**.
+
+## 📚 Currently Exploring
+
+- Computational and quantum physics
+- Machine learning for scientific problems
+- Numerical simulation and data-driven modelling
+- Quantum transport and mesoscopic systems
+- Scientific software and reproducible research
 
 ## 🤝 Connect
 
