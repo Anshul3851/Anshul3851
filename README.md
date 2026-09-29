@@ -30,6 +30,16 @@ A computational study of finite-size classical and quantum Ising systems, combin
 
 The study investigates whether machine-learning representations track physically meaningful phase indicators, and how conclusions change when independent-chain validation and the global Ising symmetry are taken into account.
 
+### [Quantum Transport in Tight-Binding Systems](https://github.com/Anshul3851/quantum-transport-simulation)
+
+A computational study of coherent quantum transport in finite tight-binding systems using **Green functions and the Landauer formalism**.
+
+**Work includes:** finite 1D transport benchmarks · resonant tunnelling · local density of states · disorder and length dependence · multi-channel transport · quantum point contacts · transmission and conductance analysis · saved-data robustness checks
+
+The project builds and validates a reusable transport framework with retarded lead self-energies, device Green functions, broadening matrices, and Landauer/Caroli transmission calculations, while documenting finite-size and sampling limitations.
+
+[**→ View Quantum Transport Simulation on GitHub**](https://github.com/Anshul3851/quantum-transport-simulation)
+
 ## 🚀 Featured Projects
 
 ### [PdfDoxi — Scan, Edit & Convert](https://github.com/Anshul3851/PdfDoxi)
@@ -61,7 +71,7 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 
 <p align="center">
   <a href="https://github.com/Anshul3851"><img src="https://img.shields.io/badge/GitHub-Anshul3851-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/anshulsharma-profile/"><img src="https://img.shields.io/badge/LinkedIn-Anshul%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/anshulsharma-profile/"><img src="https://img.shields.io/badge/LinkedIn-Anshul%20Sharma-0A66C2?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
