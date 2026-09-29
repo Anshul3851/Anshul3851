@@ -45,12 +45,6 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 
 [**→ View Voyager on GitHub**](https://github.com/Anshul3851/Voyager)
 
-### NITH Analytics
-
-A data-driven academic analytics platform for NIT Hamirpur, with student search, batch/program views, academic analytics, database ingestion, and scheduled data synchronization.
-
-**Focus:** Python · PostgreSQL · data pipelines · analytics · web application development
-
 ## 🎓 Background
 
 **B.Tech — Engineering Physics**  
