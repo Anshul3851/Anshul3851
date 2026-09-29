@@ -9,13 +9,22 @@
 
 ## 🧰 Main Skills
 
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,nextjs,react,tailwind,flutter,dart,git,github,matlab,sql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,dart&perline=6" />
 </p>
 
-**Data & Computing:** `NumPy` · `pandas` · `Jupyter` · `Streamlit`  
-**Development:** `Flutter` · `Dart` · `Next.js` · `React` · `TypeScript` · `Git` · `GitHub`  
-**Interests:** `AI/ML` · `Computational Physics` · `Quantum Systems` · `Semiconductors` · `Intelligent Systems` · `Quantitative Finance`
+### Frameworks & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,git,github&perline=6" />
+</p>
+
+### Scientific Computing & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter,streamlit,matlab,postgres&perline=6" />
+</p>
+
+**Focus:** AI/ML · Computational Physics · Quantum Systems · Semiconductors · Intelligent Systems · Quantitative Finance
 
 ## 🔬 Research & Computational Physics
 
