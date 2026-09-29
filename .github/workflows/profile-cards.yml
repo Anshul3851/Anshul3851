@@ -24,7 +24,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: Anshul3851
-          cards: overview,contributions,languages
+          cards: contributions,languages
           output-dir: assets
           themes: light,dark
           commit: true
