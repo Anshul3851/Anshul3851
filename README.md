@@ -96,12 +96,6 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
   <img src="https://github-profile-trophy.vercel.app/?username=Anshul3851&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </p>
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anshul3851&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
 <p align="center">
   <i>Building, learning, and shipping.</i>
 </p>
