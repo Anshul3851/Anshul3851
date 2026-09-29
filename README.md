@@ -69,13 +69,6 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 - Quantum transport and mesoscopic systems
 - Scientific software and reproducible research
 
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/Anshul3851"><img src="https://img.shields.io/badge/GitHub-Anshul3851-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/anshulsharma-profile/"><img src="https://img.shields.io/badge/LinkedIn-Anshul%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
 
 ## 💻 Language Breakdown
 
@@ -89,4 +82,12 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 
 <p align="center">
   <i>Building, learning, and shipping.</i>
+</p>
+
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/Anshul3851"><img src="https://img.shields.io/badge/GitHub-Anshul3851-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/anshulsharma-profile/"><img src="https://img.shields.io/badge/LinkedIn-Anshul%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
