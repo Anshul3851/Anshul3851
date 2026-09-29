@@ -77,23 +77,34 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 </p>
 
 
-## 📊 GitHub Contributions
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul3851&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg" />
+    <img src="./assets/contributions.light.svg" alt="GitHub contribution activity" width="100%" />
+  </picture>
 </p>
 
-## 📈 GitHub Stats
+## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshul3851&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul3851&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg" />
+    <img src="./assets/overview.light.svg" alt="GitHub overview statistics" width="100%" />
+  </picture>
 </p>
 
-## 🏆 GitHub Trophies
+## 💻 Language Breakdown
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshul3851&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/languages.light.svg" />
+    <img src="./assets/languages.light.svg" alt="GitHub language breakdown" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
