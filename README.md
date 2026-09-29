@@ -30,6 +30,8 @@ A computational study of finite-size classical and quantum Ising systems, combin
 
 The study investigates whether machine-learning representations track physically meaningful phase indicators, and how conclusions change when independent-chain validation and the global Ising symmetry are taken into account.
 
+[**→ View Quantum Phase-Transition ML on GitHub**](https://github.com/Anshul3851/quantum-phase-transition-ml)
+
 ### [Quantum Transport in Tight-Binding Systems](https://github.com/Anshul3851/quantum-transport-simulation)
 
 A computational study of coherent quantum transport in finite tight-binding systems using **Green functions and the Landauer formalism**.
