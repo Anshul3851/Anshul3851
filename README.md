@@ -77,16 +77,6 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 </p>
 
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg" />
-    <img src="./assets/contributions.light.svg" alt="GitHub contribution activity" width="100%" />
-  </picture>
-</p>
-
 ## 💻 Language Breakdown
 
 <p align="center">
