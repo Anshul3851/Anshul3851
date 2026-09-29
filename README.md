@@ -76,6 +76,32 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
   <a href="https://www.linkedin.com/in/anshulsharma-profile/"><img src="https://img.shields.io/badge/LinkedIn-Anshul%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul3851&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshul3851&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul3851&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshul3851&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anshul3851&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 <p align="center">
   <i>Building, learning, and shipping.</i>
 </p>
