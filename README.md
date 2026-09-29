@@ -3,46 +3,52 @@
 </p>
 
 <h2 align="center">Hi, I'm Anshul Sharma 👋</h2>
-<p align="center">
-  Engineering Physics student building and shipping software across AI, data, quantitative finance, and product development.
-</p>
-
-## 🧰 Main Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,nextjs,react,tailwind,flutter,dart,git,github,matlab,sql&perline=7" />
+  B.Tech Engineering Physics student at NIT Hamirpur, interested in computational physics, AI/ML, scientific computing, and building useful software.
 </p>
 
-**Data & Computing:** `NumPy` · `pandas` · `Jupyter` · `Streamlit`  
-**Development:** `Flutter` · `Dart` · `Next.js` · `React` · `TypeScript` · `Git` · `GitHub`  
-**Interests:** `AI/ML` · `Intelligent Systems` · `Computational Physics` · `Semiconductors` · `Quantitative Finance`
+## What I work with
 
-## 🚀 Featured Projects
+**Languages:** Python · C++ · C · JavaScript · TypeScript
 
-### [PdfDoxi — Scan, Edit & Convert](https://github.com/Anshul3851/PdfDoxi)
+**Scientific computing:** NumPy · pandas · Jupyter · MATLAB
 
-A fast, private, offline-first Android document scanner and PDF toolkit built with **Flutter and Dart**.
+**Development:** React · Next.js · TypeScript · Flutter · Dart · Streamlit · Git · GitHub
 
-**Highlights:** document scanning · image-to-PDF · PDF editing · OCR/searchable PDFs · merge/split · compression · AES-256 password protection · digital signatures · local document processing · AdMob
+**Interests:** Computational Physics · Machine Learning · Quantum Systems · Semiconductors · Intelligent Systems · Quantitative Finance
 
-[**→ View PdfDoxi on GitHub**](https://github.com/Anshul3851/PdfDoxi)
+## Selected projects
+
+### [Quantum phase-transition ML](https://github.com/Anshul3851/quantum-phase-transition-ml)
+
+A computational-physics study of finite-size Ising models and machine-learning phase indicators.
+
+It covers:
+- 2D Ising Monte Carlo and finite-size scaling
+- Binder cumulants and autocorrelation/blocking diagnostics
+- Exact diagonalization of the transverse-field Ising chain
+- PCA, k-means, logistic regression, and a small neural network
+- Symmetry-aware ML using physically motivated invariant features
+
+The main lesson from the project was that a model can obtain a useful-looking classification result while learning the wrong physical feature. The later stages were built to test that issue rather than hide it.
+
+### [PdfDoxi](https://github.com/Anshul3851/PdfDoxi)
+
+A Flutter/Dart Android document scanner and PDF toolkit focused on local document processing, scanning, OCR, editing, conversion, and file management.
 
 ### [Voyager](https://github.com/Anshul3851/Voyager)
 
-A polished, interactive web application built with **Next.js, React, TypeScript, and Tailwind CSS**.
+A web application built with Next.js, React, TypeScript, and Tailwind CSS, focused on interactive travel planning and a polished responsive interface.
 
-**Focus:** modern UI · interactive experiences · responsive product development
-
-[**→ View Voyager on GitHub**](https://github.com/Anshul3851/Voyager)
-
-## 🎓 Background
+## Background
 
 **B.Tech — Engineering Physics**  
 National Institute of Technology, Hamirpur
 
-Interested in the intersection of **physics, computing, AI, semiconductors, and real-world product development**.
+I like projects where the physics, mathematics, computation, and implementation all have to agree with each other. I'm especially interested in problems involving quantum systems, computational methods, data-driven modelling, and semiconductor/technology applications.
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/Anshul3851"><img src="https://img.shields.io/badge/GitHub-Anshul3851-181717?style=for-the-badge&logo=github" /></a>
@@ -50,5 +56,5 @@ Interested in the intersection of **physics, computing, AI, semiconductors, and 
 </p>
 
 <p align="center">
-  <i>Building, learning, and shipping.</i>
+  <i>Learning by building and testing things properly.</i>
 </p>
