@@ -45,12 +45,6 @@ A polished, interactive web application built with **Next.js, React, TypeScript,
 
 [**→ View Voyager on GitHub**](https://github.com/Anshul3851/Voyager)
 
-## 🎓 Background
-
-**B.Tech — Engineering Physics**  
-National Institute of Technology, Hamirpur
-
-Interested in the intersection of **physics, computing, AI/ML, quantum systems, semiconductors, and real-world technology**.
 
 ## 📚 Currently Exploring
 
